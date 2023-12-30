@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Onsa Bezzine</h1>
 <h3 align="center">Welcome to my profile!</h3>
 <p align="center">
-    <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+    <img alt="Coding" width="200" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 </p>
 
 - 📫 How to reach me **onsa.bezzine@esprit.tn**
