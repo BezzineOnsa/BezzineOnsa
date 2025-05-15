@@ -31,7 +31,19 @@
 
 ### 🚀 Projects
 
-#### 1. **Employee Management System**
+#### 1. **Mailbox Automation**
+Asynchronous email receiver and processor using Spring Integration & JavaMail.
+
+- **Backend**: Spring Boot 3.2.1, Spring Integration, JavaMail
+- **Features**:
+  - Receive and process emails via IMAP
+  - Extract content, download attachments
+  - Logs & moves processed mails to folders
+- **Configuration**: YAML-based with thread pool tuning and secure IMAP setup
+
+
+  
+#### 2. **Employee Management System**
 A full-stack CRUD application for managing employee data.
 
 - **Backend**: Spring Boot, Spring Data JPA, MySQL
@@ -46,15 +58,7 @@ A full-stack CRUD application for managing employee data.
   - `PUT /api/v1/employees/{id}`
   - `DELETE /api/v1/employees/{id}`
 
-#### 2. **Mailbox Automation**
-Asynchronous email receiver and processor using Spring Integration & JavaMail.
 
-- **Backend**: Spring Boot 3.2.1, Spring Integration, JavaMail
-- **Features**:
-  - Receive and process emails via IMAP
-  - Extract content, download attachments
-  - Logs & moves processed mails to folders
-- **Configuration**: YAML-based with thread pool tuning and secure IMAP setup
 
 #### 3. **Academic Projects (Private Repos)**
 Created and developed as part of my final year project studies.
