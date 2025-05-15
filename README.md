@@ -19,13 +19,13 @@
 
 ### Technical Skills
 
-- **Languages & Technologies**: Java, TypeScript, JavaScript, SQL, HTML, CSS
-- **Backend**: Spring Boot, REST APIs, JWT Auth, JPA, Hibernate
-- **Frontend**: Angular, RxJS, Angular Material, Bootstrap
-- **DevOps**: Docker, Git, GitHub Actions, Maven
-- **Databases**: MySQL, PostgreSQL
-- **Tools**: Postman, VSCode, IntelliJ, Figma, Jira
-- **Other**: Unit Testing, Debugging, Logging, Networking basics, Agile methods
+- **Languages & Technologies**: Java , TypeScript, JavaScript, SQL, HTML, CSS  
+- **Backend**: Spring Boot, REST APIs, JWT Auth, JPA, Hibernate  
+- **Frontend**: Angular, RxJS, Angular Material, Bootstrap  
+- **DevOps**: Docker, Git, GitHub Actions, Maven  
+- **Databases**: MySQL, PostgreSQL  
+- **Tools**: Postman, VSCode, IntelliJ, Spring Tool Suite (STS), Figma, Jira  
+- **Other**: Unit Testing, Debugging, Logging, Networking basics, Agile methods (Scrum)
 
 ---
 
@@ -57,7 +57,7 @@ Asynchronous email receiver and processor using Spring Integration & JavaMail.
 - **Configuration**: YAML-based with thread pool tuning and secure IMAP setup
 
 #### 3. **Academic Projects (Private Repos)**
-Created and developed as part of academic coursework (including a final-year project).
+Created and developed as part of my final year project studies.
 
 - Topics: Olympic committee digitalization
 - Tech Stack: Spring Boot, Angular, MySQL
