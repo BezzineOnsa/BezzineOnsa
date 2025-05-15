@@ -19,7 +19,7 @@
 
 ### Technical Skills
 
-- **Languages**: Java, TypeScript, JavaScript, SQL, HTML, CSS
+- **Languages & Technologies**: Java, TypeScript, JavaScript, SQL, HTML, CSS
 - **Backend**: Spring Boot, REST APIs, JWT Auth, JPA, Hibernate
 - **Frontend**: Angular, RxJS, Angular Material, Bootstrap
 - **DevOps**: Docker, Git, GitHub Actions, Maven
