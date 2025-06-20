@@ -10,7 +10,7 @@
 
 ### About Me
 
-- Engineer with strong academic background in **Networks and **Software Engineering**
+- Engineer with strong academic background in **Networks** and **Software Engineering**
 - Specialized in **Full Stack Java & Angular development**
 - Passionate about **clean architecture**, **real-world applications**, and **DevOps best practices**
 - Building and contributing to open-source projects while preparing for professional opportunities
