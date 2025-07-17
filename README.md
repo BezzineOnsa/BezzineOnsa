@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Onsa Bezzine</h1>
-<h3 align="center">Full Stack Java & Angular Developer | Passionate about Clean Code, Real-World Solutions, and Continuous Growth</h3>
+<h3 align="center">Full Stack Java & Angular Developer | Passionate about Clean Code, and Real-World Solutions </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+space!;Java+%7C+Spring+Boot+%7C+Angular;Docker+%7C+Git+%7C+REST+APIs;Always+learning+%7C+Always+building" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ### About Me
 
-- Engineer with strong academic background in **Networks** and **Software Engineering**
+- Engineer with strong academic background in **Software Engineering**
 - Specialized in **Full Stack Java & Angular development**
 - Passionate about **clean architecture**, **real-world applications**, and **DevOps best practices**
 - Building and contributing to open-source projects while preparing for professional opportunities
