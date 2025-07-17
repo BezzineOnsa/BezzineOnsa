@@ -19,13 +19,12 @@
 
 ### Technical Skills
 
-- **Languages & Technologies**: Java , TypeScript, JavaScript, SQL, HTML, CSS  
-- **Backend**: Spring Boot, REST APIs, JWT Auth, JPA, Hibernate  
-- **Frontend**: Angular, RxJS, Angular Material, Bootstrap  
-- **DevOps**: Docker, Git, GitHub Actions, Maven  
-- **Databases**: MySQL, PostgreSQL  
-- **Tools**: Postman, VSCode, IntelliJ, Spring Tool Suite (STS), Figma, Jira  
-- **Other**: Unit Testing, Debugging, Logging, Networking basics, Agile methods (Scrum)
+- **Backend**: Java, Spring Boot, REST APIs, JWT Auth, JPA, Hibernate
+- **Frontend**: Angular, ReactJS, TypeScript, JavaScript, RxJS, Angular Material, Bootstrap, HTML, CSS
+- **DevOps**: Docker, Git, GitHub Actions, Maven 
+- **Databases**: MySQL, MongoDB
+- **Tools**: Postman, VS Code, IntelliJ IDEA, Spring Tool Suite (STS), Figma 
+- **Other**: Unit Testing, Debugging, Logging, Networking basics, Agile methodologies (Scrum)
 
 ---
 
