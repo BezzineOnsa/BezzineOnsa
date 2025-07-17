@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Java & Angular Developer | Passionate about Clean Code, and Real-World Solutions </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+space!;Java+%7C+Spring+Boot+%7C+Angular;Docker+%7C+Git+%7C+REST+APIs;Always+learning+%7C+Always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+space!;Always+learning+%7C+Always+building" alt="Typing SVG" />
 </p>
 
 ---
