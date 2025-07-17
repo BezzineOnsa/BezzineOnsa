@@ -19,13 +19,18 @@
 
 ### Technical Skills
 
-- **Backend**: Java, Spring Boot, REST APIs, JWT Auth, JPA, Hibernate
+- **Backend**: Java, Spring Boot, Spring Security, RESTful APIs, JWT Authentication, JPA, Hibernate
 - **Frontend**: Angular, ReactJS, TypeScript, JavaScript, RxJS, Angular Material, Bootstrap, HTML, CSS
-- **DevOps**: Docker, Git, GitHub Actions, Maven 
+- **DevOps & CI/CD**: Docker, Git, GitHub Actions, Maven
 - **Databases**: MySQL, MongoDB
-- **Tools**: Postman, VS Code, IntelliJ IDEA, Spring Tool Suite (STS), Figma 
-- **Other**: Unit Testing, Debugging, Logging, Networking basics, Agile methodologies (Scrum)
-
+- **Networking & Security**: Solid foundations in computer networking and network security (CCNA 2 certified), firewalls, VPNs, TCP/IP, OSI model, basic ethical hacking
+- **Tools & IDEs**: VS Code, IntelliJ IDEA, Spring Tool Suite (STS), Postman, Figma 4
+- **Testing & Debugging**: Unit testing (JUnit), Debugging, Logging,
+- **Methodologies**: Agile (Scrum), version control workflows (Git/GitHub)
+  
+### Certifications
+- Cisco CCNA 2: Switching, Routing, and Wireless Essentials
+  
 ---
 
 ### 🚀 Projects
