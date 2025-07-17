@@ -67,14 +67,6 @@ Created and developed as part of my final year project studies.
 - Tech Stack: Spring Boot, Angular, MySQL
 - *Note*: Repositories are private due to academic restrictions but reflect strong architectural design and teamwork experience
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onsabezzine&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onsabezzine&layout=compact&theme=dark" height="150" />
-</p>
 
 ---
 
