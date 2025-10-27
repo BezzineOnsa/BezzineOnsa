@@ -4,11 +4,6 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&color=1B2656&lines=Our+Nature+Sparks+Achievement" alt="Typing SVG" />
-</p>
-
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&color=FF5733&lines=Our+Nature+Sparks+Achievement" alt="Typing SVG" />
 </p>
 
