@@ -3,15 +3,9 @@
 <h3 align="center">Full Stack Java & Angular Developer | Passionate about Clean Code, and Real-World Solutions </h3>
 
 <p align="center">
-  <strong>
-    <span style="font-size: 22 px;">
-      <span style="color:#E63946;">O</span>ur 
-      <span style="color:#457B9D;">N</span>ature 
-      <span style="color:#F4A261;">S</span>parks 
-      <span style="color:#2A9D8F;">A</span>chievement
-    </span>
-  </strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=%F0%9F%8C%9F+%3Cspan+style%3D'color%3A%23E63946'%3EO%3C%2Fspan%3Eur+%3Cspan+style%3D'color%3A%23457B9D'%3EN%3C%2Fspan%3Eature+%3Cspan+style%3D'color%3A%23F4A261'%3ES%3C%2Fspan%3Eparks+%3Cspan+style%3D'color%3A%232A9D8F'%3EA%3C%2Fspan%3Echievement+%F0%9F%8C%9F" alt="Slogan Typing SVG" />
 </p>
+
 
 
 ---
