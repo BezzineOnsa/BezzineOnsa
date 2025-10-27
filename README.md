@@ -2,8 +2,11 @@
 <h1 align="center">Hi 👋, I'm Onsa Bezzine</h1>
 <h3 align="center">Full Stack Java & Angular Developer | Passionate about Clean Code, and Real-World Solutions </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&color=FF5733&lines=Our+Nature+Sparks+Achievement" alt="Typing SVG" />
+<p align="center" style="font-family:Fira Code; font-size:22px;">
+  <span style="color:#E63946;">O</span>ur 
+  <span style="color:#457B9D;">N</span>ature 
+  <span style="color:#F4A261;">S</span>parks 
+  <span style="color:#2A9D8F;">A</span>chievement
 </p>
 
 
