@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>
-    <span style="color:#1B2656; font-size: 20px;">
+    <span style="font-size: 22px;">
       <span style="color:#E63946;">O</span>ur 
       <span style="color:#457B9D;">N</span>ature 
       <span style="color:#F4A261;">S</span>parks 
@@ -12,6 +12,7 @@
     </span>
   </strong>
 </p>
+
 
 ---
 
