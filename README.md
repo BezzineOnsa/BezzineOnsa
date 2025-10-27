@@ -4,8 +4,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=𝗢ur+𝗡ature+𝗦parks+𝗔chievement" alt="Typing SVG" />
+  <img alt="Our Nature Sparks Achievement" src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="760" height="64"><style>text{font-family:Fira+Code,sans-serif;font-size:24px;}</style><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"><tspan fill="%23E63946">O</tspan>ur <tspan fill="%23457B9D">N</tspan>ature <tspan fill="%23F4A261">S</tspan>parks <tspan fill="%232A9D8F">A</tspan>chievement</text></svg>' />
 </p>
+
 
 
 ---
