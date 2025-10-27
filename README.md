@@ -1,12 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Onsa Bezzine</h1>
 <h3 align="center">Full Stack Java & Angular Developer | Passionate about Clean Code, and Real-World Solutions </h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Our+Nature+Sparks+Achievement" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=%E2%9C%85Our+%F0%9F%94%A5Nature+%F0%9F%9A%80Sparks+%E2%9C%85Achievement" alt="Typing SVG" />
 </p>
-
-
 
 ---
 
