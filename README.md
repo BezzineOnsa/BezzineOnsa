@@ -1,63 +1,61 @@
 
 <h1 align="center">Hi 👋, I'm Onsa Bezzine</h1>
 <h3 align="center">Full Stack Java & Angular Developer | Passionate about Clean Code, and Real-World Solutions </h3>
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-labelledby="title desc">
-  <title id="title">Our Nature Sparks Achievement — ONSA</title>
-  <desc id="desc">Stylized header where initials O, N, S, A are highlighted to represent the name ONSA.</desc>
 
+
+<p align="center">
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="gradInitial" x1="0" x2="1">
-      <stop offset="0" stop-color="#FF6B6B"/>
-      <stop offset="1" stop-color="#FFB86B"/>
+    <!-- Gradient pour ONSA -->
+    <linearGradient id="onsaGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF5733"/>
+      <stop offset="50%" stop-color="#FF8D1A"/>
+      <stop offset="100%" stop-color="#FFC300"/>
     </linearGradient>
 
-    <style><![CDATA[
-      text { font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
-      .word { fill:#E6EEF8; font-weight:500; font-size:48px; }
-      .initial { fill: url(#gradInitial); font-weight:800; font-size:76px;
-                 filter: drop-shadow(0 0 10px rgba(255,107,107,0.45));
-                 animation: float 3.5s ease-in-out infinite, glow 2.8s ease-in-out infinite;
-                 transform-origin: center;
-      }
-      @keyframes float { 0%{transform:translateY(0)}50%{transform:translateY(-6px)}100%{transform:translateY(0)} }
-      @keyframes glow  { 0%{filter:drop-shadow(0 0 6px rgba(255,107,107,0.35))}50%{filter:drop-shadow(0 0 18px rgba(255,107,107,0.95))}100%{filter:drop-shadow(0 0 6px rgba(255,107,107,0.35))} }
-
-      .caption { fill:#94A3B8; font-size:14px; font-weight:600; letter-spacing:1px; }
-      .spark { fill:#FFD86B; opacity:0; animation:twinkle 3s linear infinite; }
-      @keyframes twinkle { 0%{opacity:0;transform:scale(0.6)} 10%{opacity:1;transform:scale(1)} 30%{opacity:0.6} 100%{opacity:0} }
-    ]]></style>
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
-  <rect width="900" height="220" rx="16" fill="transparent"/>
+  <!-- Our -->
+  <text x="60" y="75" font-size="48" font-family="Fira Code, monospace" fill="#FFFFFF">
+    <tspan fill="url(#onsaGradient)" font-weight="700" filter="url(#glow)">O</tspan>ur
+  </text>
+
+  <!-- Nature -->
+  <text x="210" y="75" font-size="48" font-family="Fira Code, monospace" fill="#FFFFFF">
+    <tspan fill="url(#onsaGradient)" font-weight="700" filter="url(#glow)">N</tspan>ature
+  </text>
 
   <!-- Sparks -->
-  <circle class="spark" cx="690" cy="36" r="4" style="animation-delay:0s"/>
-  <circle class="spark" cx="120" cy="28" r="3" style="animation-delay:0.6s"/>
-  <circle class="spark" cx="520" cy="78" r="3.5" style="animation-delay:1.2s"/>
+  <text x="400" y="75" font-size="48" font-family="Fira Code, monospace" fill="#FFFFFF">
+    <tspan fill="url(#onsaGradient)" font-weight="700" filter="url(#glow)">S</tspan>parks
+  </text>
 
-  <!-- Use separate <text> elements for predictable positioning -->
-  <!-- baseline y = 120 for the line -->
-  <g transform="translate(70,0)">
-    <!-- Our -->
-    <text x="0" y="120" class="initial">O</text>
-    <text x="56" y="120" class="word">ur</text>
+  <!-- Achievement -->
+  <text x="570" y="75" font-size="48" font-family="Fira Code, monospace" fill="#FFFFFF">
+    <tspan fill="url(#onsaGradient)" font-weight="700" filter="url(#glow)">A</tspan>chievement
+  </text>
 
-    <!-- Nature -->
-    <text x="220" y="120" class="initial">N</text>
-    <text x="276" y="120" class="word">ature</text>
-
-    <!-- Sparks -->
-    <text x="420" y="120" class="initial">S</text>
-    <text x="476" y="120" class="word">parks</text>
-
-    <!-- Achievement -->
-    <text x="610" y="120" class="initial">A</text>
-    <text x="666" y="120" class="word">chievement</text>
-  </g>
-
-  <text x="450" y="188" text-anchor="middle" class="caption">Initiales mises en valeur → O N S A = Onsa</text>
+  <!-- Animation pulse -->
+  <animateTransform
+    attributeName="transform"
+    type="scale"
+    from="1"
+    to="1.03"
+    begin="0s"
+    dur="3s"
+    repeatCount="indefinite"
+    additive="sum"/>
 </svg>
+</p>
+
 
 
 ### About Me
