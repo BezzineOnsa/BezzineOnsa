@@ -3,10 +3,10 @@
     text {
       font-family: monospace;
       font-size: 48px;
-      fill: #eaeaea;
+      fill: #B0B0B0; /* Gris un peu plus foncé */
     }
     .onsa {
-      fill: #1F51FF; /* Bleu unique */
+      fill: #1F51FF; /* Bleu unique pour ONSA */
       font-weight: 800;
     }
   </style>
