@@ -1,8 +1,5 @@
 
-<h1 align="center">Hi <span class="wave">👋</span>, I'm Onsa Bezzine</h1>
-<h1 align="center">Hello,
-  <img src="assets/hello-bye.gif" width="60px" alt="Hello Wave"> I'm Onsa Bezzine
-</h1>
+<h1 align="center">Hi   <img src="assets/hello-bye.gif" width="60px" alt="Hello Wave">, I'm Onsa Bezzine</h1>
 
 <h3 align="center">Full Stack Java & Angular Developer | Passionate about Clean Code, and Real-World Solutions </h3>
 <p align="center">
