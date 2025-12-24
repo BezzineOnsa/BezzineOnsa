@@ -1,5 +1,5 @@
-
-<h1 align="center">Hi   <img src="assets/hello.gif" alt="Hello Wave" tyle="height:1em; vertical-align:middle; margin:0 0.2em;">, I'm Onsa Bezzine</h1>
+<img src="assets/hello.gif" alt="Hello Wave" tyle="height:1em; vertical-align:middle; margin:0 0.2em;">
+<h1 align="center">Hello, I'm Onsa Bezzine</h1>
 
 <h1 align="center">
   Hi 
