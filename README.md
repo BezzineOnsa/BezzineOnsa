@@ -3,7 +3,7 @@
 
 <h1 align="center">
   Hi 
-  <img src="assets/hello.gif" width="80px" alt="Hello Wave" class="wave" style="vertical-align: middle;">, 
+  <img src="assets/hello.gif" width="80px" alt="Hello Wave" class="wave" style="vertical-align: text-bottom; margin-bottom: -5px;">, 
   I'm Onsa Bezzine
 </h1>
 
