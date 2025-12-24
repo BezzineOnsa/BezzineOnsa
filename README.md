@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Onsa Bezzine</h1>
 <h3 align="center">Full Stack Java & Angular Developer | Passionate about Clean Code, and Real-World Solutions </h3>
+<p align="center">
+  <img src="assets/profile-quote.svg" alt="Our Nature Sparks Achievement" />
+</p>
 
 ### About Me
 
