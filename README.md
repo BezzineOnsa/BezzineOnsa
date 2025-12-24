@@ -2,60 +2,55 @@
 <h1 align="center">Hi 👋, I'm Onsa Bezzine</h1>
 <h3 align="center">Full Stack Java & Angular Developer | Passionate about Clean Code, and Real-World Solutions </h3>
 
-
 <p align="center">
-<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="820" height="120" viewBox="0 0 820 120" xmlns="http://www.w3.org/2000/svg">
+
   <defs>
-    <!-- Gradient pour ONSA -->
     <linearGradient id="onsaGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FF5733"/>
       <stop offset="50%" stop-color="#FF8D1A"/>
       <stop offset="100%" stop-color="#FFC300"/>
     </linearGradient>
-
-    <!-- Glow -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
   <!-- Our -->
-  <text x="60" y="75" font-size="48" font-family="Fira Code, monospace" fill="#FFFFFF">
-    <tspan fill="url(#onsaGradient)" font-weight="700" filter="url(#glow)">O</tspan>ur
+  <text x="50" y="75" font-size="48" font-family="Fira Code, monospace" fill="#EAEAEA">
+    <tspan
+      fill="url(#onsaGradient)"
+      font-weight="800"
+      stroke="#FF8D1A"
+      stroke-width="1.5">O</tspan>ur
   </text>
 
   <!-- Nature -->
-  <text x="210" y="75" font-size="48" font-family="Fira Code, monospace" fill="#FFFFFF">
-    <tspan fill="url(#onsaGradient)" font-weight="700" filter="url(#glow)">N</tspan>ature
+  <text x="200" y="75" font-size="48" font-family="Fira Code, monospace" fill="#EAEAEA">
+    <tspan
+      fill="url(#onsaGradient)"
+      font-weight="800"
+      stroke="#FF8D1A"
+      stroke-width="1.5">N</tspan>ature
   </text>
 
   <!-- Sparks -->
-  <text x="400" y="75" font-size="48" font-family="Fira Code, monospace" fill="#FFFFFF">
-    <tspan fill="url(#onsaGradient)" font-weight="700" filter="url(#glow)">S</tspan>parks
+  <text x="390" y="75" font-size="48" font-family="Fira Code, monospace" fill="#EAEAEA">
+    <tspan
+      fill="url(#onsaGradient)"
+      font-weight="800"
+      stroke="#FF8D1A"
+      stroke-width="1.5">S</tspan>parks
   </text>
 
   <!-- Achievement -->
-  <text x="570" y="75" font-size="48" font-family="Fira Code, monospace" fill="#FFFFFF">
-    <tspan fill="url(#onsaGradient)" font-weight="700" filter="url(#glow)">A</tspan>chievement
+  <text x="560" y="75" font-size="48" font-family="Fira Code, monospace" fill="#EAEAEA">
+    <tspan
+      fill="url(#onsaGradient)"
+      font-weight="800"
+      stroke="#FF8D1A"
+      stroke-width="1.5">A</tspan>chievement
   </text>
 
-  <!-- Animation pulse -->
-  <animateTransform
-    attributeName="transform"
-    type="scale"
-    from="1"
-    to="1.03"
-    begin="0s"
-    dur="3s"
-    repeatCount="indefinite"
-    additive="sum"/>
 </svg>
 </p>
-
 
 
 ### About Me
