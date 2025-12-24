@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi   <img src="assets/hello.gif" width="80px" alt="Hello Wave" tyle="height:1em; vertical-align:middle; margin:0 0.2em;">, I'm Onsa Bezzine</h1>
+<h1 align="center">Hi   <img src="assets/hello.gif" alt="Hello Wave" tyle="height:1em; vertical-align:middle; margin:0 0.2em;">, I'm Onsa Bezzine</h1>
 
 <h3 align="center">Full Stack Java & Angular Developer | Passionate about Clean Code, and Real-World Solutions </h3>
 <p align="center">
