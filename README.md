@@ -2,36 +2,16 @@
 <h1 align="center">Hi 👋, I'm Onsa Bezzine</h1>
 <h3 align="center">Full Stack Java & Angular Developer | Passionate about Clean Code, and Real-World Solutions </h3>
 
+<!-- Simple — prêt à coller dans README.md -->
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120" role="img" aria-label="Our Nature Sparks Achievement">
+  <svg xmlns="http://www.w3.org/2000/svg" width="760" height="90" viewBox="0 0 760 90" role="img" aria-label="Our Nature Sparks Achievement">
     <defs>
-      <!-- Palette : accent cyan pour initiales, gris doux pour le reste -->
-      <linearGradient id="softGrad" x1="0" x2="1" y1="0" y2="0">
+      <linearGradient id="accentSimple" x1="0" x2="1" y1="0" y2="0">
         <stop offset="0%" stop-color="#06B6D4"/>
         <stop offset="100%" stop-color="#60A5FA"/>
       </linearGradient>
     </defs>
 
-    <text x="50%" y="55%" text-anchor="middle"
-          font-family="Fira Code, 'Segoe UI', Roboto, system-ui, monospace"
-          font-size="28" letter-spacing="0.6">
-      <!-- O (initiale marquée) -->
-      <tspan fill="url(#softGrad)" font-weight="800" font-size="34">O</tspan>
-      <tspan fill="#94A3B8">ur </tspan>
-
-      <!-- N -->
-      <tspan fill="url(#softGrad)" font-weight="800" font-size="34">N</tspan>
-      <tspan fill="#94A3B8">ature </tspan>
-
-      <!-- S -->
-      <tspan fill="url(#softGrad)" font-weight="800" font-size="34">S</tspan>
-      <tspan fill="#94A3B8">parks </tspan>
-
-      <!-- A -->
-      <tspan fill="url(#softGrad)" font-weight="800" font-size="34">A</tspan>
-      <tspan fill="#94A3B8">chievement</tspan>
-    </text>
-  </svg>
 </p>
 
 ### About Me
