@@ -3,55 +3,6 @@
   Hello <span class="wave">👋</span>, I'm Onsa Bezzine
 </h1>
 
-<style>
-.wave {
-  display: inline-block;
-  transform-origin: 70% 70%;
-  animation: wave 2s infinite;
-}
-
-/* Animation de “wave” pour saluer et dire bye */
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  15% { transform: rotate(14deg); }
-  30% { transform: rotate(-8deg); }
-  40% { transform: rotate(14deg); }
-  50% { transform: rotate(-4deg); }
-  60% { transform: rotate(10deg); }
-  70% { transform: rotate(-2deg); }
-  80% { transform: rotate(8deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
-
-
-<h3 align="center">Full Stack Java & Angular Developer | Passionate about Clean Code, and Real-World Solutions </h3>
-<p align="center">
-  <img src="assets/profile-quote.svg" alt="Our Nature Sparks Achievement" />
-</p>
-
-
-
-<style>
-.wave {
-  display: inline-block;
-  animation: wave 1.5s infinite;
-  transform-origin: 70% 70%;
-}
-
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  15% { transform: rotate(14deg); }
-  30% { transform: rotate(-8deg); }
-  40% { transform: rotate(14deg); }
-  50% { transform: rotate(-4deg); }
-  60% { transform: rotate(10deg); }
-  70% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
-
-
 ### About Me
 
 - Engineer with strong academic background in **Software Engineering**
