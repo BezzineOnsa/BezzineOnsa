@@ -2,35 +2,6 @@
 <h1 align="center">Hi 👋, I'm Onsa Bezzine</h1>
 <h3 align="center">Full Stack Java & Angular Developer | Passionate about Clean Code, and Real-World Solutions </h3>
 
-<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF5733"/>
-      <stop offset="50%" stop-color="#FF8D1A"/>
-      <stop offset="100%" stop-color="#FFC300"/>
-    </linearGradient>
-  </defs>
-
-  <style>
-    text {
-      font-family: monospace;
-      font-size: 48px;
-      fill: #eaeaea;
-    }
-    .onsa {
-      fill: url(#g);
-      font-weight: 800;
-    }
-  </style>
-
-  <text x="40" y="75"><tspan class="onsa">O</tspan>ur</text>
-  <text x="200" y="75"><tspan class="onsa">N</tspan>ature</text>
-  <text x="400" y="75"><tspan class="onsa">S</tspan>parks</text>
-  <text x="600" y="75"><tspan class="onsa">A</tspan>chievement</text>
-</svg>
-
-
-
 ### About Me
 
 - Engineer with strong academic background in **Software Engineering**
