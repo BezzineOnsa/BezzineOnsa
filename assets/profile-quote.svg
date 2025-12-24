@@ -1,18 +1,20 @@
 <svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
   <style>
-    text {
+       text {
+    
       font-family: monospace;
       font-size: 48px;
-      fill: #B0B0B0; /* Gris un peu plus foncé */
+      fill: #B0B0B0; 
     }
     .onsa {
-      fill: #1F51FF; /* Bleu unique pour ONSA */
-      font-weight: 800;
+      fill: #1F51FF; 
+    
+        font-weight: 800;
     }
   </style>
 
   <text x="40" y="75"><tspan class="onsa">O</tspan>ur</text>
-  <text x="200" y="75"><tspan class="onsa">N</tspan>ature</text>
-  <text x="400" y="75"><tspan class="onsa">S</tspan>parks</text>
+   <text x="200" y="75"><tspan class="onsa">N</tspan>ature</text>
+     <text x="400" y="75"><tspan class="onsa">S</tspan>parks</text>
   <text x="600" y="75"><tspan class="onsa">A</tspan>chievement</text>
 </svg>
